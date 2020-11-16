@@ -8,7 +8,7 @@ __Site:__ [Qiskit](https://qiskit.org/events/summer-school/)
 __Date:__ July 2020  
 
 ## Certificate
-<img src="./QGSS_Certificate.jpg" alt="Quantum Excellence Certificate" height="300px">
+<a href="https://qiskit-global-summer-school-certificates.anvil.app/"><img src="./QGSS_Certificate.jpg" alt="Quantum Excellence Certificate" height="300px"></a>  
 
 ## Description
 The labs are contained in `ex1.ipynb` in each folder.  
