@@ -15,3 +15,14 @@ The labs are contained in `ex1.ipynb` in each folder.
 Each `ipynb` is self-contained, with the exercise portion usually at the end.  
 The notebooks are also saved as html for easier reference.  
 Other files in the folders include images and grading tools as given by Qiskit.  
+
+## Topics
+`lab1` - Single-qubit and multi-qubit states, quantum teleportation  
+`lab2` - Grover's Algorithm  
+`lab3` - Quantum Phase Estimation  
+`lab4` - Shor's Algorithm  
+`lab5` - Quantum error correction  
+`lab6` - Qubit Drive: Rabi & Ramsey Experiments  
+`lab7` - Qubit Spectroscopy  
+`lab8` - Quantum Chemistry  
+`lab9` - Hardware-efficient trial states for variational quantum eigensolvers  
